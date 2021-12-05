@@ -1,0 +1,4 @@
+com\example\mq\common\Sender.class
+com\example\mq\MqApplication.class
+com\example\mq\common\Receiver.class
+com\example\mq\Config\RabbitConfig.class
